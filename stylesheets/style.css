@@ -9,10 +9,12 @@ h1, h2, h3, h4, h5, h6, p {
 
 h1 {
   font-weight: lighter;
+  font-size: 3em;
 }
 
 h2 {
   font-weight: lighter;
+  font-size: 1.7em;
 }
 
 
@@ -23,4 +25,5 @@ h2 {
 
 .header {
   text-align: center;
+  margin: 7em auto;
 }
